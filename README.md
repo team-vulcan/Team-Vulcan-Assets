@@ -1,7 +1,7 @@
 # Team Vulcan Shared Assets
 
 These Assets were created to make developing new games easier for ourselves. There are different folders containing different types of assets.
-The assets must follow Microsoft Store Gaming and Xbox Policies as set by Microsoft. These policies can be found here: https://docs.microsoft.com/en-us/windows/uwp/publish/store-policies#1013-gaming-and-xbox
+The assets must follow Microsoft Store Gaming and Xbox Policies as set by Microsoft. These policies can be found [here](https://docs.microsoft.com/en-us/windows/uwp/publish/store-policies#1013-gaming-and-xbox)
 
 To download, go to [the releases tab](https://github.com/team-vulcan/Team-Vulcan-Assets/releases/)
 
