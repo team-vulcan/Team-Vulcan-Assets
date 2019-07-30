@@ -1,4 +1,4 @@
-#XBL-UI for Unity
+# XBL-UI for Unity
 
 Team Vulcan's Xbox Live UI is a single, modular package that allows the developer to easily implement Xbox Live sign in 
 to a Team Vulcan Studios game. Just drag and drop the desired prefab into an existing canvas and configure the prefab as necessary. 
