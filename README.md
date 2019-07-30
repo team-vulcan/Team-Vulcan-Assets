@@ -16,7 +16,7 @@ will be taken down for either not implementing parental controls or allowing the
 Xbox Live Singleplayer UI uses TextMeshPro and [XBL SDK](https://github.com/microsoft/xbox-live-unity-plugin).
 You may also need to import a package from Unity Tools for Visual Studio if you are getting errors from the XBL SDK. This can occurr if you install
 Visual Studio from online rather than through the Unity Installer. Go to `C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity` and look
-around for a .unitypackage. Import that package into your project and you should be good to go.
+around for a `.unitypackage`. Import that package into your project and you should be good to go.
 
 TextMeshPro is built into Unity in the package manager.
 
