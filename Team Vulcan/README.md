@@ -1,7 +1,3 @@
-*abbreviation meanings:*
-*MSP - Microsoft Store Policy*
-*XBL - Xbox Live*
-
 # Team Vulcan Shared Assets
 
 These Assets were created to make developing new games easier for ourselves. There are different folders containing different types of assets.
@@ -11,8 +7,8 @@ To download, go to [the releases tab](https://github.com/team-vulcan/Team-Vulcan
 
 # Xbox Live Singleplayer UI
 
-The XBL Singleplayer UI allows the developer to drop a prefab into an existing Canvas which can then be configured to the developer's liking.
-The Singleplayer UI must follow MSP 10.13.5. Attempting to put this UI into a multiplayer game will violate MSP 10.13.6 and the game 
+The XBL (Xbox Live) Singleplayer UI allows the developer to drop a prefab into an existing Canvas which can then be configured to the developer's liking.
+The Singleplayer UI must follow MSP (Microsoft Store Policy) 10.13.5. Attempting to put this UI into a multiplayer game will violate MSP 10.13.6 and the game 
 will be taken down for either not implementing parental controls or allowing the player to continue to gameplay without signing in to XBL.
 
 ## Dependencies
