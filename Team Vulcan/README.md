@@ -24,7 +24,7 @@ around for a .unitypackage. Import that package into your project and you should
 
 TextMeshPro is built into Unity in the package manager.
 
-#Copyright
+# Copyright
 
-Copyright© Team Vulcan Studios 2019
+CopyrightÂ© Team Vulcan Studios 2019
 All Rights Reserved
